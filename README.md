@@ -1,5 +1,5 @@
-## Portfolio Landing Page
-#### By b-njoroge
+ Portfolio Landing Page
+By b-njoroge
 ## Description
 Portfolio landing page listing some of the projects done on week 1 of Moringa-Prep.
 ## Setup/Installation Requirements
