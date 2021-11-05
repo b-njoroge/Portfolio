@@ -5,6 +5,7 @@ Portfolio landing page listing some of the projects done on week 1 of Moringa-Pr
 ## Setup/Installation Requirements
 * Clone the repo {git clone https://github.com/b-njoroge/Portfolio.git
 ## Live link
+ https://b-njoroge.github.io/Portfolio
 ## Known Bugs
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result.
 ## Technologies Used
