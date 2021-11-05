@@ -14,4 +14,4 @@ HTML and CSS
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
 This is under the [MIT](LICENSE) license
-Copyright (c) 2021 b-njoroge
+ (c) 2021 b-njoroge
