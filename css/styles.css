@@ -1,48 +1,77 @@
-
-.body{
+@charset "utf-8";
+body{
     background-color: #f6f5f5;
     margin: 0px;
     padding: 0px;
 }
-.section{
-    width: 100%;
-    height: 95vh;
-}
-.text-container p:nth-child(1){
-    font-family: 'calibri';
+.landing{
     font-weight: bold;
-    color: #6d6d6d;
-    font-size: 22px;
+    display: flexbox;
+
 }
-.text-container p:nth-child(2){
-    font-family: 'calibri';
-    font-weight: bold;
-    letter-spacing: 1px;
-    color:#1a1a1a;
-    font-size: 60px;
-}
-.text-container p:nth-child(3){
-    font-family: 'myriad pro regular';
-    color:#403e3e;
-    font-size: 30px;
-}
-.text-container p{
-    line-height: 0px;
-    margin: 45px opx 25px;
-}
-.text-container{
+.portfolio{
+    font: optional;
+    height: 560px;
     position: absolute;
-    left: 13%;
-    top: 42%;
-    transform: translate(-13% -42%);
+    bottom:40px;
+    left: 98%;
+    transform: translateX(-98%);
+
+}
+.about-text{
+	width:500px;
+} 
+.about-text p:nth-child(1){
+	color:black;
+	font-family: myriad pro;
+	font-weight:bold;
+	font-size:23px;
+	line-height:0px;
+}
+.about-text p:nth-child(2){
+	color:black;
+	font-size:13px;
+	font-family: myriad pro;
+	font-weight:bold;
+	line-height:5px;
+}
+.about-text p:nth-child(3),.about-text p:nth-child(4){
+	color:black;
+	font-family:calibri;
+	font-size:16px;
 }
 
-.project-section > ul{
-    padding-top: 2cm;
+.project-section ul{
+    padding-top: ocm;
     padding-bottom: 4cm;
     display: flex;
     text-align: center;
     justify-content: space-around;
     background: black;
     color: white;
+    font-family:'calibri';
 }
+@media(max-width:1000px){
+.portfolio{
+    height: 460px;
+    left: 90%;
+    transform: translateX(-90%);
+}
+.about-text{
+    width: 400px;
+}
+.about-text p:nth-child(1){
+    font-size: 20px;
+}
+.about-text p:nth-child(2){
+    font-size: 10px;
+}
+
+.about-text p:nth-child(3),
+.about-text p:nth-child(4){
+    font-size: 14px;
+}
+
+}
+
+
