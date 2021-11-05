@@ -1,0 +1,27 @@
+<div>
+            <img src="static/images/images.jpeg" alt=" my portfolio image" >
+        </div>
+        <div class="projects">
+            <h2><strong>My projects</strong></h2>
+            <img src="images/project1.png" alt="project1">
+        <ul>
+            <li>
+                <h3>favorite band</h3>
+                <p>A sunset band project. It gives an about of the band, shows pictures and upcoming shows for the band</p>
+                <p>languages used are HTML and CSS</p>
+                <p>check out <a href="https://b-njoroge.github.io/sunset-patrol/">favorite band</a>.</p>
+            </li>
+            <li>
+                <h4>photography website</h4>
+                <p>Line photography website project.It show sample works for portraits, nature and weddings</p>
+                <P>Languages used are HTML nad CSS</P>
+                <p>check out <a href="https://b-njoroge.github.io/sunset-patrol/">favorite band</a>.</p>
+            </li>
+        </ul>
+        </div>
+        <div>
+            <h5>About me</h5>
+        <p>Education level and job experience</p>
+        <p>My interests are word games and animes</p>
+        <p>I choose to enroll for a programming class to gain technical skills required for the competitive job market</p>
+        </div>
